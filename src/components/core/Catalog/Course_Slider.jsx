@@ -26,6 +26,12 @@ function Course_Slider({ Courses }) {
             1024: {
               slidesPerView: 3,
             },
+            768:{
+              slidesPerView: 2,
+            },
+            310:{
+              slidesPerView: 1,
+            }
           }}
           className="max-h-[30rem]"
         >
